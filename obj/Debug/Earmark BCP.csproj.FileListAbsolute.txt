@@ -7,3 +7,12 @@ C:\Users\FH40082X\source\repos\Earmark BCP\obj\Debug\Earmark BCP.csproj.Generate
 C:\Users\FH40082X\source\repos\Earmark BCP\obj\Debug\Earmark BCP.csproj.CoreCompileInputs.cache
 C:\Users\FH40082X\source\repos\Earmark BCP\obj\Debug\Earmark BCP.exe
 C:\Users\FH40082X\source\repos\Earmark BCP\obj\Debug\Earmark BCP.pdb
+D:\CIMB Project Placement\BCP\Main Repo\Earmark\bin\Debug\Earmark BCP.exe
+D:\CIMB Project Placement\BCP\Main Repo\Earmark\bin\Debug\Earmark BCP.pdb
+D:\CIMB Project Placement\BCP\Main Repo\Earmark\obj\Debug\Earmark BCP.csprojAssemblyReference.cache
+D:\CIMB Project Placement\BCP\Main Repo\Earmark\obj\Debug\Earmark_BCP.Form1.resources
+D:\CIMB Project Placement\BCP\Main Repo\Earmark\obj\Debug\Earmark_BCP.Properties.Resources.resources
+D:\CIMB Project Placement\BCP\Main Repo\Earmark\obj\Debug\Earmark BCP.csproj.GenerateResource.cache
+D:\CIMB Project Placement\BCP\Main Repo\Earmark\obj\Debug\Earmark BCP.csproj.CoreCompileInputs.cache
+D:\CIMB Project Placement\BCP\Main Repo\Earmark\obj\Debug\Earmark BCP.exe
+D:\CIMB Project Placement\BCP\Main Repo\Earmark\obj\Debug\Earmark BCP.pdb

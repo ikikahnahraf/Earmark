@@ -9,6 +9,8 @@ namespace Earmark_BCP
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// asdasda
+        /// apsodpasodpas
         [STAThread]
         static void Main()
         {
