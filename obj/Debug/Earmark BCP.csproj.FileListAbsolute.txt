@@ -1,0 +1,9 @@
+C:\Users\FH40082X\source\repos\Earmark BCP\bin\Debug\Earmark BCP.exe
+C:\Users\FH40082X\source\repos\Earmark BCP\bin\Debug\Earmark BCP.pdb
+C:\Users\FH40082X\source\repos\Earmark BCP\obj\Debug\Earmark BCP.csprojAssemblyReference.cache
+C:\Users\FH40082X\source\repos\Earmark BCP\obj\Debug\Earmark_BCP.Form1.resources
+C:\Users\FH40082X\source\repos\Earmark BCP\obj\Debug\Earmark_BCP.Properties.Resources.resources
+C:\Users\FH40082X\source\repos\Earmark BCP\obj\Debug\Earmark BCP.csproj.GenerateResource.cache
+C:\Users\FH40082X\source\repos\Earmark BCP\obj\Debug\Earmark BCP.csproj.CoreCompileInputs.cache
+C:\Users\FH40082X\source\repos\Earmark BCP\obj\Debug\Earmark BCP.exe
+C:\Users\FH40082X\source\repos\Earmark BCP\obj\Debug\Earmark BCP.pdb
