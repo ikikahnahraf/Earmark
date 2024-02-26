@@ -16,3 +16,4 @@ D:\CIMB Project Placement\BCP\Main Repo\Earmark\obj\Debug\Earmark BCP.csproj.Gen
 D:\CIMB Project Placement\BCP\Main Repo\Earmark\obj\Debug\Earmark BCP.csproj.CoreCompileInputs.cache
 D:\CIMB Project Placement\BCP\Main Repo\Earmark\obj\Debug\Earmark BCP.exe
 D:\CIMB Project Placement\BCP\Main Repo\Earmark\obj\Debug\Earmark BCP.pdb
+D:\CIMB Project Placement\BCP\Main Repo\Earmark\obj\Debug\Earmark_BCP.FormLogin.resources

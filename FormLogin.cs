@@ -10,9 +10,11 @@ namespace Earmark_BCP
 {
     public partial class FormLogin : Form
     {
+        bool loginResult = false;
         public FormLogin()
         {
             InitializeComponent();
+            
         }
 
         private void FormLogin_Load(object sender, EventArgs e)
@@ -28,6 +30,20 @@ namespace Earmark_BCP
         private void textBoxPassword_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void loginButton_Click(object sender, EventArgs e)
+        {
+            if (textBoxUsername.Text == "admin" && textBoxPassword.Text == "admin")
+            {
+
+                loginResult = true;
+                this.Close();
+            }
+            else {
+                MessageBox.Show("User atau Password salah");
+            }
+            
         }
     }
 }
